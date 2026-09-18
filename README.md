@@ -88,24 +88,6 @@ I'm a Computer Science graduate focused on <b>Artificial Intelligence, Machine L
   </a>
 </p>
 
----
-
-<h3 align="left">🚀 Featured Projects:</h3>
-
-<p align="left">
-
-<b>🍈 Papaya Freshness Detection</b><br>
-Image-based detection of papaya freshness and market readiness using computer vision and object detection models. <br><br>
-
-<b>🌿 Cassava Disease Classification</b><br>
-Deep learning system for classifying cassava leaf diseases using image classification and computer vision techniques. <br><br>
-
-<b>🎓 Student Uniform Compliance Detection</b><br>
-Real-time computer vision system for detecting student uniform compliance through video analysis. <br><br>
-
-</p>
-
----
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
