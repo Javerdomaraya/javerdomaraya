@@ -1,193 +1,341 @@
-<div align="center" id="top">
+<div align="center">
 
-  <h1>Javer R. Domaraya</h1>
+<!-- ANIMATED TYPING HEADER -->
 
-  <h3>AI/ML Developer · Computer Vision · Full-Stack Development</h3>
+<a href="https://github.com/javerdomaraya">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+I'm+Javer+R.+Domaraya+%F0%9F%91%8B;AI%2FML+Developer+%F0%9F%A4%96;Computer+Vision+Developer+%F0%9F%91%81%EF%B8%8F;Building+Intelligent+Systems+with+Python+%F0%9F%90%8D;Turning+Ideas+into+Real+AI+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-  <p>
-    Building practical AI-powered applications that connect<br/>
-    machine learning, computer vision, and modern software development.
-  </p>
+<br>
 
-  <p>
-    <a href="https://github.com/javerdomaraya">
-      <img src="https://komarev.com/ghpvc/?username=javerdomaraya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-    </a>
-    <a href="https://github.com/javerdomaraya?tab=repositories">
-      <img src="https://img.shields.io/github/stars/javerdomaraya?label=Stars&style=flat" alt="GitHub Stars"/>
-    </a>
-    <a href="https://github.com/javerdomaraya?tab=followers">
-      <img src="https://img.shields.io/github/followers/javerdomaraya?label=Followers&style=flat" alt="GitHub Followers"/>
-    </a>
-  </p>
+<h3>AI/ML Developer • Computer Vision • Full-Stack Development</h3>
+
+<p>
+  <i>Building practical intelligent systems through code, data, and computer vision.</i>
+</p>
+
+<br>
+
+<!-- PROFILE BADGES -->
+
+<a href="https://github.com/javerdomaraya">
+  <img src="https://komarev.com/ghpvc/?username=javerdomaraya&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</a>
+
+<a href="https://github.com/javerdomaraya?tab=followers">
+  <img src="https://img.shields.io/github/followers/javerdomaraya?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+</a>
+
+<a href="https://github.com/javerdomaraya?tab=repositories">
+  <img src="https://img.shields.io/github/stars/javerdomaraya?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars"/>
+</a>
+
+</div>
+
+<br>
+
+<!-- NAVIGATION -->
+
+<div align="center">
+
+**[🌟 About](#-about)** •
+**[🧠 AI/ML](#-ai--machine-learning)** •
+**[💻 Tech Stack](#-technologies)** •
+**[🚀 Projects](#-featured-projects)** •
+**[📊 GitHub Stats](#-github-statistics)** •
+**[🤝 Connect](#-connect)**
+
+</div>
+
+<br>
+
+---
+
+## 🎯 About
+
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
+
+I'm **Javer R. Domaraya**, an **AI/ML Developer** interested in building practical intelligent systems using **Machine Learning, Deep Learning, and Computer Vision**.
+
+My development work combines:
+
+* 🤖 Machine Learning & Deep Learning
+* 👁️ Computer Vision
+* 🐍 Python & Django
+* ⚛️ React & React Native
+* 📱 Mobile AI applications
+* 🗄️ Databases & REST APIs
+* 🚀 Full-stack AI deployment
+
+I enjoy working on projects where **AI models are connected to real applications**, rather than existing only as notebooks or experiments.
+
+<br clear="right"/>
+
+---
+
+## 🧠 AI & Machine Learning
+
+<div align="center">
+
+### Computer Vision
+
+<img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch" />
+
+<br><br>
+
+**YOLO • Faster R-CNN • CNN • Vision Transformers**
+
+<br>
+
+```text
+Image
+  ↓
+Computer Vision
+  ↓
+Object Detection
+  ↓
+Feature Extraction
+  ↓
+Classification
+  ↓
+AI Prediction
+  ↓
+Real-World Application
+```
 
 </div>
 
 ---
 
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#computer-projects">Projects</a> &#xa0; | &#xa0;
-  <a href="#chart_with_upwards_trend-github-stats">GitHub Stats</a> &#xa0; | &#xa0;
-  <a href="#handshake-connect">Connect</a>
-</p>
+## 💻 Technologies
 
----
+<div align="center">
 
-## :dart: About
+### 🤖 AI / ML
 
-I'm a **Computer Science graduate** with a focus on **Artificial Intelligence, Machine Learning, Computer Vision, and Full-Stack Development**.
-
-I enjoy building systems that take AI models beyond experimentation and turn them into usable applications.
-
-* 🤖 Focused on **AI/ML and Computer Vision**
-* 👁️ Interested in **object detection and image classification**
-* 🐍 Building backend systems with **Python and Django**
-* ⚛️ Building web and mobile applications with **React and React Native**
-* 🧠 Working with **YOLO, TensorFlow, PyTorch, and OpenCV**
-* 🗄️ Experience working with relational and cloud databases
-* 🚀 Interested in deploying machine learning models into real-world applications
-* 🎓 BS Computer Science graduate from **Biliran Province State University**
-* 🇵🇭 Based in the **Philippines**
-
----
-
-## :rocket: Technologies
-
-### :brain: AI / Machine Learning
-
-<p align="left">
-
-<a href="https://www.python.org">
-  <img width="50" title="Python" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://www.tensorflow.org">
-  <img width="50" title="TensorFlow" alt="TensorFlow" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-icon.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://pytorch.org">
-  <img width="50" title="PyTorch" alt="PyTorch" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://opencv.org">
-  <img width="50" title="OpenCV" alt="OpenCV" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://scikit-learn.org">
-  <img width="50" title="Scikit-learn" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" width="50"/>
+</a>
+<a href="https://www.tensorflow.org/">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="50"/>
+</a>
+<a href="https://pytorch.org/">
+<img src="https://skillicons.dev/icons?i=pytorch" width="50"/>
+</a>
+<a href="https://opencv.org/">
+<img src="https://skillicons.dev/icons?i=opencv" width="50"/>
 </a>
 
-</p>
+<br><br>
 
-### :gear: Backend & APIs
+### ⚙️ Backend & APIs
 
-<p align="left">
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,fastapi" />
 
-<a href="https://www.djangoproject.com">
-  <img width="50" title="Django" alt="Django" src="https://cdn.worldvectorlogo.com/logos/django.svg">
-</a> &#xa0; &#xa0;
+<br><br>
 
-<a href="https://nodejs.org">
-  <img width="50" title="Node.js" alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-</a> &#xa0; &#xa0;
+### ⚛️ Frontend & Mobile
 
-<a href="https://expressjs.com">
-  <img width="50" title="Express" alt="Express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
-</a>
+<img src="https://skillicons.dev/icons?i=react,reactnative,typescript,javascript,html,css,tailwind" />
 
-</p>
+<br><br>
 
-### :art: Frontend & Mobile
+### 🗄️ Databases
 
-<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,supabase,sqlite" />
 
-<a href="https://react.dev">
-  <img width="50" title="React" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-</a> &#xa0; &#xa0;
+<br><br>
 
-<a href="https://reactnative.dev">
-  <img width="50" title="React Native" alt="React Native" src="https://reactnative.dev/img/header_logo.svg">
-</a> &#xa0; &#xa0;
+### 🛠️ Development Tools
 
-<a href="https://www.javascript.com">
-  <img width="50" title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</a> &#xa0; &#xa0;
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,googlecloud" />
 
-<a href="https://www.typescriptlang.org">
-  <img width="50" title="TypeScript" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-</a> &#xa0; &#xa0;
+</div>
 
-<a href="https://tailwindcss.com">
-  <img width="50" title="Tailwind CSS" alt="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
-</a>
-
-</p>
-
-### :floppy_disk: Databases & Tools
-
-<p align="left">
-
-<a href="https://www.postgresql.org">
-  <img width="50" title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://www.mysql.com">
-  <img width="50" title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://firebase.google.com">
-  <img width="50" title="Firebase" alt="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://supabase.com">
-  <img width="50" title="Supabase" alt="Supabase" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://git-scm.com">
-  <img width="50" title="Git" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://code.visualstudio.com">
-  <img width="50" title="VS Code" alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-</a>
-
-</p>
+<br>
 
 <details>
-  <summary><b>See more technologies</b></summary>
+<summary><b>✨ See more technologies</b></summary>
 
-###
+<br>
 
-* REST APIs
-* GitHub
-* Google Colab
-* Postman
-* SQLite
-* HTML5
-* CSS3
+| Category            | Technologies                                  |
+| ------------------- | --------------------------------------------- |
+| **Languages**       | Python, JavaScript, TypeScript, HTML, CSS     |
+| **AI / ML**         | TensorFlow, PyTorch, Scikit-learn             |
+| **Computer Vision** | OpenCV, YOLO, Faster R-CNN                    |
+| **Backend**         | Django, Node.js, REST APIs                    |
+| **Frontend**        | React, React Native, Expo, Tailwind CSS       |
+| **Databases**       | MySQL, PostgreSQL, Firebase, Supabase, SQLite |
+| **Tools**           | Git, GitHub, VS Code, Postman, Google Colab   |
+| **Deployment**      | Vercel, Railway, Hugging Face Spaces          |
 
 </details>
-<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"><desc>Generated with https://github.com/Platane/snk</desc><style>:root{--cb:#1b1f230a;--cs:purple;--ce:#ebedf0;--c0:#ebedf0;--c1:#9be9a8;--c2:#40c463;--c3:#30a14e;--c4:#216e39}.c{shape-rendering:geometricPrecision;fill:var(--ce);stroke-width:1px;stroke:var(--cb);animation:none 25100ms linear infinite;width:12px;height:12px}@keyframes c0{0.39%{fill:var(--c1)}0.41%,100%{fill:var(--ce)}}.c.c0{fill:var(--c1);animation-name:c0}@keyframes c1{68.52%{fill:var(--c2)}68.54%,100%{fill:var(--ce)}}.c.c1{fill:var(--c2);animation-name:c1}@keyframes c2{65.73%{fill:var(--c2)}65.75%,100%{fill:var(--ce)}}.c.c2{fill:var(--c2);animation-name:c2}@keyframes c3{3.58%{fill:var(--c1)}3.6%,100%{fill:var(--ce)}}.c.c3{fill:var(--c1);animation-name:c3}@keyframes c4{5.17%{fill:var(--c1)}5.19%,100%{fill:var(--ce)}}.c.c4{fill:var(--c1);animation-name:c4}@keyframes c5{7.16%{fill:var(--c1)}7.18%,100%{fill:var(--ce)}}.c.c5{fill:var(--c1);animation-name:c5}@keyframes c6{9.15%{fill:var(--c1)}9.17%,100%{fill:var(--ce)}}.c.c6{fill:var(--c1);animation-name:c6}@keyframes c7{92.02%{fill:var(--c4)}92.04%,100%{fill:var(--ce)}}.c.c7{fill:var(--c4);animation-name:c7}@keyframes c8{11.94%{fill:var(--c1)}11.96%,100%{fill:var(--ce)}}.c.c8{fill:var(--c1);animation-name:c8}@keyframes c9{14.73%{fill:var(--c1)}14.75%,100%{fill:var(--ce)}}.c.c9{fill:var(--c1);animation-name:c9}@keyframes ca{17.12%{fill:var(--c1)}17.14%,100%{fill:var(--ce)}}.c.ca{fill:var(--c1);animation-name:ca}@keyframes cb{37.84%{fill:var(--c1)}37.86%,100%{fill:var(--ce)}}.c.cb{fill:var(--c1);animation-name:cb}@keyframes cc{84.45%{fill:var(--c4)}84.47%,100%{fill:var(--ce)}}.c.cc{fill:var(--c4);animation-name:cc}@keyframes cd{19.51%{fill:var(--c1)}19.53%,100%{fill:var(--ce)}}.c.cd{fill:var(--c1);animation-name:cd}@keyframes ce{21.11%{fill:var(--c1)}21.13%,100%{fill:var(--ce)}}.c.ce{fill:var(--c1);animation-name:ce}@keyframes cf{82.46%{fill:var(--c3)}82.48%,100%{fill:var(--ce)}}.c.cf{fill:var(--c3);animation-name:cf}@keyframes cg{33.46%{fill:var(--c1)}33.48%,100%{fill:var(--ce)}}.c.cg{fill:var(--c1);animation-name:cg}@keyframes ch{22.3%{fill:var(--c1)}22.32%,100%{fill:var(--ce)}}.c.ch{fill:var(--c1);animation-name:ch}@keyframes ci{29.87%{fill:var(--c1)}29.89%,100%{fill:var(--ce)}}.c.ci{fill:var(--c1);animation-name:ci}@keyframes cj{23.5%{fill:var(--c1)}23.52%,100%{fill:var(--ce)}}.c.cj{fill:var(--c1);animation-name:cj}@keyframes ck{30.67%{fill:var(--c1)}30.69%,100%{fill:var(--ce)}}.c.ck{fill:var(--c1);animation-name:ck}@keyframes cl{31.07%{fill:var(--c1)}31.09%,100%{fill:var(--ce)}}.c.cl{fill:var(--c1);animation-name:cl}@keyframes cm{28.28%{fill:var(--c1)}28.3%,100%{fill:var(--ce)}}.c.cm{fill:var(--c1);animation-name:cm}@keyframes cn{27.88%{fill:var(--c1)}27.9%,100%{fill:var(--ce)}}.c.cn{fill:var(--c1);animation-name:cn}@keyframes co{48.99%{fill:var(--c2)}49.01%,100%{fill:var(--ce)}}.c.co{fill:var(--c2);animation-name:co}@keyframes cp{49.39%{fill:var(--c2)}49.41%,100%{fill:var(--ce)}}.c.cp{fill:var(--c2);animation-name:cp}@keyframes cq{25.49%{fill:var(--c1)}25.51%,100%{fill:var(--ce)}}.c.cq{fill:var(--c1);animation-name:cq}@keyframes cr{25.89%{fill:var(--c1)}25.91%,100%{fill:var(--ce)}}.c.cr{fill:var(--c1);animation-name:cr}@keyframes cs{46.6%{fill:var(--c1)}46.62%,100%{fill:var(--ce)}}.c.cs{fill:var(--c1);animation-name:cs}.u{transform-origin:0 0;transform:scale(0,1);animation:none linear 25100ms infinite}@keyframes u0{0.39%{transform:scale(0.000,1)}0.41%,3.58%{transform:scale(0.045,1)}3.6%,5.17%{transform:scale(0.091,1)}5.19%,7.16%{transform:scale(0.136,1)}7.18%,9.15%{transform:scale(0.182,1)}9.17%,11.94%{transform:scale(0.227,1)}11.96%,14.73%{transform:scale(0.273,1)}14.75%,17.12%{transform:scale(0.318,1)}17.14%,19.51%{transform:scale(0.364,1)}19.53%,21.11%{transform:scale(0.409,1)}21.13%,22.3%{transform:scale(0.455,1)}22.32%,23.5%{transform:scale(0.500,1)}23.52%,25.49%{transform:scale(0.545,1)}25.51%,25.89%{transform:scale(0.591,1)}25.91%,27.88%{transform:scale(0.636,1)}27.9%,28.28%{transform:scale(0.682,1)}28.3%,29.87%{transform:scale(0.727,1)}29.89%,30.67%{transform:scale(0.773,1)}30.69%,31.07%{transform:scale(0.818,1)}31.09%,33.46%{transform:scale(0.864,1)}33.48%,37.84%{transform:scale(0.909,1)}37.86%,46.6%{transform:scale(0.955,1)}46.62%,100%{transform:scale(1.000,1)}}.u.u0{fill:var(--c1);animation-name:u0;transform-origin:0.0px 0}@keyframes u1{48.99%{transform:scale(0.000,1)}49.01%,49.39%{transform:scale(0.250,1)}49.41%,65.73%{transform:scale(0.500,1)}65.75%,68.52%{transform:scale(0.750,1)}68.54%,100%{transform:scale(1.000,1)}}.u.u1{fill:var(--c2);animation-name:u1;transform-origin:643.3px 0}@keyframes u2{82.46%{transform:scale(0.000,1)}82.48%,100%{transform:scale(1.000,1)}}.u.u2{fill:var(--c3);animation-name:u2;transform-origin:760.3px 0}@keyframes u3{84.45%{transform:scale(0.000,1)}84.47%,92.02%{transform:scale(0.500,1)}92.04%,100%{transform:scale(1.000,1)}}.u.u3{fill:var(--c4);animation-name:u3;transform-origin:789.5px 0}.s{shape-rendering:geometricPrecision;fill:var(--cs);animation:none linear 25100ms infinite}@keyframes s0{0%,99.6%{transform:translate(0px,-16px)}0.4%{transform:translate(0px,0px)}1.99%{transform:translate(64px,0px)}2.79%{transform:translate(64px,32px)}3.19%{transform:translate(80px,32px)}3.59%{transform:translate(80px,48px)}6.77%{transform:translate(208px,48px)}7.17%{transform:translate(208px,32px)}7.97%{transform:translate(240px,32px)}9.16%{transform:translate(240px,80px)}10.36%{transform:translate(288px,80px)}11.95%{transform:translate(288px,16px)}16.73%{transform:translate(480px,16px)}17.13%{transform:translate(480px,0px)}18.73%{transform:translate(544px,0px)}19.52%{transform:translate(544px,32px)}19.92%{transform:translate(560px,32px)}21.12%{transform:translate(560px,80px)}21.91%{transform:translate(592px,80px)}22.31%{transform:translate(592px,96px)}25.1%{transform:translate(704px,96px)}25.5%{transform:translate(704px,80px)}25.9%{transform:translate(720px,80px)}27.49%{transform:translate(720px,16px)}27.89%{transform:translate(704px,16px)}28.29%{transform:translate(704px,0px)}29.88%,32.27%{transform:translate(640px,0px)}30.28%{transform:translate(640px,16px)}30.68%{transform:translate(656px,16px)}31.08%{transform:translate(656px,32px)}31.47%{transform:translate(640px,32px)}35.86%,86.85%{transform:translate(496px,0px)}37.85%{transform:translate(496px,80px)}45.42%{transform:translate(800px,80px)}46.61%{transform:translate(800px,32px)}49%{transform:translate(704px,32px)}49.4%{transform:translate(704px,48px)}49.8%{transform:translate(688px,48px)}50.6%{transform:translate(688px,16px)}66.53%{transform:translate(48px,16px)}68.53%{transform:translate(48px,96px)}79.28%{transform:translate(480px,96px)}79.68%{transform:translate(480px,80px)}82.07%{transform:translate(576px,80px)}82.47%{transform:translate(576px,96px)}84.46%{transform:translate(496px,96px)}96.81%{transform:translate(96px,0px)}97.21%{transform:translate(96px,-16px)}}.s.s0{transform:translate(0px,-16px);animation-name:s0}@keyframes s1{0%,99.6%{transform:translate(16px,-16px)}0.4%{transform:translate(0px,-16px)}0.8%{transform:translate(0px,0px)}2.39%{transform:translate(64px,0px)}3.19%{transform:translate(64px,32px)}3.59%{transform:translate(80px,32px)}3.98%{transform:translate(80px,48px)}7.17%{transform:translate(208px,48px)}7.57%{transform:translate(208px,32px)}8.37%{transform:translate(240px,32px)}9.56%{transform:translate(240px,80px)}10.76%{transform:translate(288px,80px)}12.35%{transform:translate(288px,16px)}17.13%{transform:translate(480px,16px)}17.53%{transform:translate(480px,0px)}19.12%{transform:translate(544px,0px)}19.92%{transform:translate(544px,32px)}20.32%{transform:translate(560px,32px)}21.51%{transform:translate(560px,80px)}22.31%{transform:translate(592px,80px)}22.71%{transform:translate(592px,96px)}25.5%{transform:translate(704px,96px)}25.9%{transform:translate(704px,80px)}26.29%{transform:translate(720px,80px)}27.89%{transform:translate(720px,16px)}28.29%{transform:translate(704px,16px)}28.69%{transform:translate(704px,0px)}30.28%,32.67%{transform:translate(640px,0px)}30.68%{transform:translate(640px,16px)}31.08%{transform:translate(656px,16px)}31.47%{transform:translate(656px,32px)}31.87%{transform:translate(640px,32px)}36.25%,87.25%{transform:translate(496px,0px)}38.25%{transform:translate(496px,80px)}45.82%{transform:translate(800px,80px)}47.01%{transform:translate(800px,32px)}49.4%{transform:translate(704px,32px)}49.8%{transform:translate(704px,48px)}50.2%{transform:translate(688px,48px)}51%{transform:translate(688px,16px)}66.93%{transform:translate(48px,16px)}68.92%{transform:translate(48px,96px)}79.68%{transform:translate(480px,96px)}80.08%{transform:translate(480px,80px)}82.47%{transform:translate(576px,80px)}82.87%{transform:translate(576px,96px)}84.86%{transform:translate(496px,96px)}97.21%{transform:translate(96px,0px)}97.61%{transform:translate(96px,-16px)}}.s.s1{transform:translate(16px,-16px);animation-name:s1}@keyframes s2{0%,99.6%{transform:translate(32px,-16px)}0.8%{transform:translate(0px,-16px)}1.2%{transform:translate(0px,0px)}2.79%{transform:translate(64px,0px)}3.59%{transform:translate(64px,32px)}3.98%{transform:translate(80px,32px)}4.38%{transform:translate(80px,48px)}7.57%{transform:translate(208px,48px)}7.97%{transform:translate(208px,32px)}8.76%{transform:translate(240px,32px)}9.96%{transform:translate(240px,80px)}11.16%{transform:translate(288px,80px)}12.75%{transform:translate(288px,16px)}17.53%{transform:translate(480px,16px)}17.93%{transform:translate(480px,0px)}19.52%{transform:translate(544px,0px)}20.32%{transform:translate(544px,32px)}20.72%{transform:translate(560px,32px)}21.91%{transform:translate(560px,80px)}22.71%{transform:translate(592px,80px)}23.11%{transform:translate(592px,96px)}25.9%{transform:translate(704px,96px)}26.29%{transform:translate(704px,80px)}26.69%{transform:translate(720px,80px)}28.29%{transform:translate(720px,16px)}28.69%{transform:translate(704px,16px)}29.08%{transform:translate(704px,0px)}30.68%,33.07%{transform:translate(640px,0px)}31.08%{transform:translate(640px,16px)}31.47%{transform:translate(656px,16px)}31.87%{transform:translate(656px,32px)}32.27%{transform:translate(640px,32px)}36.65%,87.65%{transform:translate(496px,0px)}38.65%{transform:translate(496px,80px)}46.22%{transform:translate(800px,80px)}47.41%{transform:translate(800px,32px)}49.8%{transform:translate(704px,32px)}50.2%{transform:translate(704px,48px)}50.6%{transform:translate(688px,48px)}51.39%{transform:translate(688px,16px)}67.33%{transform:translate(48px,16px)}69.32%{transform:translate(48px,96px)}80.08%{transform:translate(480px,96px)}80.48%{transform:translate(480px,80px)}82.87%{transform:translate(576px,80px)}83.27%{transform:translate(576px,96px)}85.26%{transform:translate(496px,96px)}97.61%{transform:translate(96px,0px)}98.01%{transform:translate(96px,-16px)}}.s.s2{transform:translate(32px,-16px);animation-name:s2}@keyframes s3{0%,99.6%{transform:translate(48px,-16px)}1.2%{transform:translate(0px,-16px)}1.59%{transform:translate(0px,0px)}3.19%{transform:translate(64px,0px)}3.98%{transform:translate(64px,32px)}4.38%{transform:translate(80px,32px)}4.78%{transform:translate(80px,48px)}7.97%{transform:translate(208px,48px)}8.37%{transform:translate(208px,32px)}9.16%{transform:translate(240px,32px)}10.36%{transform:translate(240px,80px)}11.55%{transform:translate(288px,80px)}13.15%{transform:translate(288px,16px)}17.93%{transform:translate(480px,16px)}18.33%{transform:translate(480px,0px)}19.92%{transform:translate(544px,0px)}20.72%{transform:translate(544px,32px)}21.12%{transform:translate(560px,32px)}22.31%{transform:translate(560px,80px)}23.11%{transform:translate(592px,80px)}23.51%{transform:translate(592px,96px)}26.29%{transform:translate(704px,96px)}26.69%{transform:translate(704px,80px)}27.09%{transform:translate(720px,80px)}28.69%{transform:translate(720px,16px)}29.08%{transform:translate(704px,16px)}29.48%{transform:translate(704px,0px)}31.08%,33.47%{transform:translate(640px,0px)}31.47%{transform:translate(640px,16px)}31.87%{transform:translate(656px,16px)}32.27%{transform:translate(656px,32px)}32.67%{transform:translate(640px,32px)}37.05%,88.05%{transform:translate(496px,0px)}39.04%{transform:translate(496px,80px)}46.61%{transform:translate(800px,80px)}47.81%{transform:translate(800px,32px)}50.2%{transform:translate(704px,32px)}50.6%{transform:translate(704px,48px)}51%{transform:translate(688px,48px)}51.79%{transform:translate(688px,16px)}67.73%{transform:translate(48px,16px)}69.72%{transform:translate(48px,96px)}80.48%{transform:translate(480px,96px)}80.88%{transform:translate(480px,80px)}83.27%{transform:translate(576px,80px)}83.67%{transform:translate(576px,96px)}85.66%{transform:translate(496px,96px)}98.01%{transform:translate(96px,0px)}98.41%{transform:translate(96px,-16px)}}.s.s3{transform:translate(48px,-16px);animation-name:s3}</style><rect class="c c0" x="2" y="2" rx="2" ry="2"/><rect class="c" x="2" y="18" rx="2" ry="2"/><rect class="c" x="2" y="34" rx="2" ry="2"/><rect class="c" x="2" y="50" rx="2" ry="2"/><rect class="c" x="2" y="66" rx="2" ry="2"/><rect class="c" x="2" y="82" rx="2" ry="2"/><rect class="c" x="2" y="98" rx="2" ry="2"/><rect class="c" x="18" y="2" rx="2" ry="2"/><rect class="c" x="18" y="18" rx="2" ry="2"/><rect class="c" x="18" y="34" rx="2" ry="2"/><rect class="c" x="18" y="50" rx="2" ry="2"/><rect class="c" x="18" y="66" rx="2" ry="2"/><rect class="c" x="18" y="82" rx="2" ry="2"/><rect class="c" x="18" y="98" rx="2" ry="2"/><rect class="c" x="34" y="2" rx="2" ry="2"/><rect class="c" x="34" y="18" rx="2" ry="2"/><rect class="c" x="34" y="34" rx="2" ry="2"/><rect class="c" x="34" y="50" rx="2" ry="2"/><rect class="c" x="34" y="66" rx="2" ry="2"/><rect class="c" x="34" y="82" rx="2" ry="2"/><rect class="c" x="34" y="98" rx="2" ry="2"/><rect class="c" x="50" y="2" rx="2" ry="2"/><rect class="c" x="50" y="18" rx="2" ry="2"/><rect class="c" x="50" y="34" rx="2" ry="2"/><rect class="c" x="50" y="50" rx="2" ry="2"/><rect class="c" x="50" y="66" rx="2" ry="2"/><rect class="c" x="50" y="82" rx="2" ry="2"/><rect class="c c1" x="50" y="98" rx="2" ry="2"/><rect class="c" x="66" y="2" rx="2" ry="2"/><rect class="c" x="66" y="18" rx="2" ry="2"/><rect class="c" x="66" y="34" rx="2" ry="2"/><rect class="c" x="66" y="50" rx="2" ry="2"/><rect class="c" x="66" y="66" rx="2" ry="2"/><rect class="c" x="66" y="82" rx="2" ry="2"/><rect class="c" x="66" y="98" rx="2" ry="2"/><rect class="c" x="82" y="2" rx="2" ry="2"/><rect class="c c2" x="82" y="18" rx="2" ry="2"/><rect class="c" x="82" y="34" rx="2" ry="2"/><rect class="c c3" x="82" y="50" rx="2" ry="2"/><rect class="c" x="82" y="66" rx="2" ry="2"/><rect class="c" x="82" y="82" rx="2" ry="2"/><rect class="c" x="82" y="98" rx="2" ry="2"/><rect class="c" x="98" y="2" rx="2" ry="2"/><rect class="c" x="98" y="18" rx="2" ry="2"/><rect class="c" x="98" y="34" rx="2" ry="2"/><rect class="c" x="98" y="50" rx="2" ry="2"/><rect class="c" x="98" y="66" rx="2" ry="2"/><rect class="c" x="98" y="82" rx="2" ry="2"/><rect class="c" x="98" y="98" rx="2" ry="2"/><rect class="c" x="114" y="2" rx="2" ry="2"/><rect class="c" x="114" y="18" rx="2" ry="2"/><rect class="c" x="114" y="34" rx="2" ry="2"/><rect class="c" x="114" y="50" rx="2" ry="2"/><rect class="c" x="114" y="66" rx="2" ry="2"/><rect class="c" x="114" y="82" rx="2" ry="2"/><rect class="c" x="114" y="98" rx="2" ry="2"/><rect class="c" x="130" y="2" rx="2" ry="2"/><rect class="c" x="130" y="18" rx="2" ry="2"/><rect class="c" x="130" y="34" rx="2" ry="2"/><rect class="c" x="130" y="50" rx="2" ry="2"/><rect class="c" x="130" y="66" rx="2" ry="2"/><rect class="c" x="130" y="82" rx="2" ry="2"/><rect class="c" x="130" y="98" rx="2" ry="2"/><rect class="c" x="146" y="2" rx="2" ry="2"/><rect class="c" x="146" y="18" rx="2" ry="2"/><rect class="c" x="146" y="34" rx="2" ry="2"/><rect class="c c4" x="146" y="50" rx="2" ry="2"/><rect class="c" x="146" y="66" rx="2" ry="2"/><rect class="c" x="146" y="82" rx="2" ry="2"/><rect class="c" x="146" y="98" rx="2" ry="2"/><rect class="c" x="162" y="2" rx="2" ry="2"/><rect class="c" x="162" y="18" rx="2" ry="2"/><rect class="c" x="162" y="34" rx="2" ry="2"/><rect class="c" x="162" y="50" rx="2" ry="2"/><rect class="c" x="162" y="66" rx="2" ry="2"/><rect class="c" x="162" y="82" rx="2" ry="2"/><rect class="c" x="162" y="98" rx="2" ry="2"/><rect class="c" x="178" y="2" rx="2" ry="2"/><rect class="c" x="178" y="18" rx="2" ry="2"/><rect class="c" x="178" y="34" rx="2" ry="2"/><rect class="c" x="178" y="50" rx="2" ry="2"/><rect class="c" x="178" y="66" rx="2" ry="2"/><rect class="c" x="178" y="82" rx="2" ry="2"/><rect class="c" x="178" y="98" rx="2" ry="2"/><rect class="c" x="194" y="2" rx="2" ry="2"/><rect class="c" x="194" y="18" rx="2" ry="2"/><rect class="c" x="194" y="34" rx="2" ry="2"/><rect class="c" x="194" y="50" rx="2" ry="2"/><rect class="c" x="194" y="66" rx="2" ry="2"/><rect class="c" x="194" y="82" rx="2" ry="2"/><rect class="c" x="194" y="98" rx="2" ry="2"/><rect class="c" x="210" y="2" rx="2" ry="2"/><rect class="c" x="210" y="18" rx="2" ry="2"/><rect class="c c5" x="210" y="34" rx="2" ry="2"/><rect class="c" x="210" y="50" rx="2" ry="2"/><rect class="c" x="210" y="66" rx="2" ry="2"/><rect class="c" x="210" y="82" rx="2" ry="2"/><rect class="c" x="210" y="98" rx="2" ry="2"/><rect class="c" x="226" y="2" rx="2" ry="2"/><rect class="c" x="226" y="18" rx="2" ry="2"/><rect class="c" x="226" y="34" rx="2" ry="2"/><rect class="c" x="226" y="50" rx="2" ry="2"/><rect class="c" x="226" y="66" rx="2" ry="2"/><rect class="c" x="226" y="82" rx="2" ry="2"/><rect class="c" x="226" y="98" rx="2" ry="2"/><rect class="c" x="242" y="2" rx="2" ry="2"/><rect class="c" x="242" y="18" rx="2" ry="2"/><rect class="c" x="242" y="34" rx="2" ry="2"/><rect class="c" x="242" y="50" rx="2" ry="2"/><rect class="c" x="242" y="66" rx="2" ry="2"/><rect class="c c6" x="242" y="82" rx="2" ry="2"/><rect class="c" x="242" y="98" rx="2" ry="2"/><rect class="c" x="258" y="2" rx="2" ry="2"/><rect class="c" x="258" y="18" rx="2" ry="2"/><rect class="c" x="258" y="34" rx="2" ry="2"/><rect class="c" x="258" y="50" rx="2" ry="2"/><rect class="c" x="258" y="66" rx="2" ry="2"/><rect class="c" x="258" y="82" rx="2" ry="2"/><rect class="c" x="258" y="98" rx="2" ry="2"/><rect class="c" x="274" y="2" rx="2" ry="2"/><rect class="c" x="274" y="18" rx="2" ry="2"/><rect class="c" x="274" y="34" rx="2" ry="2"/><rect class="c" x="274" y="50" rx="2" ry="2"/><rect class="c" x="274" y="66" rx="2" ry="2"/><rect class="c" x="274" y="82" rx="2" ry="2"/><rect class="c" x="274" y="98" rx="2" ry="2"/><rect class="c c7" x="290" y="2" rx="2" ry="2"/><rect class="c c8" x="290" y="18" rx="2" ry="2"/><rect class="c" x="290" y="34" rx="2" ry="2"/><rect class="c" x="290" y="50" rx="2" ry="2"/><rect class="c" x="290" y="66" rx="2" ry="2"/><rect class="c" x="290" y="82" rx="2" ry="2"/><rect class="c" x="290" y="98" rx="2" ry="2"/><rect class="c" x="306" y="2" rx="2" ry="2"/><rect class="c" x="306" y="18" rx="2" ry="2"/><rect class="c" x="306" y="34" rx="2" ry="2"/><rect class="c" x="306" y="50" rx="2" ry="2"/><rect class="c" x="306" y="66" rx="2" ry="2"/><rect class="c" x="306" y="82" rx="2" ry="2"/><rect class="c" x="306" y="98" rx="2" ry="2"/><rect class="c" x="322" y="2" rx="2" ry="2"/><rect class="c" x="322" y="18" rx="2" ry="2"/><rect class="c" x="322" y="34" rx="2" ry="2"/><rect class="c" x="322" y="50" rx="2" ry="2"/><rect class="c" x="322" y="66" rx="2" ry="2"/><rect class="c" x="322" y="82" rx="2" ry="2"/><rect class="c" x="322" y="98" rx="2" ry="2"/><rect class="c" x="338" y="2" rx="2" ry="2"/><rect class="c" x="338" y="18" rx="2" ry="2"/><rect class="c" x="338" y="34" rx="2" ry="2"/><rect class="c" x="338" y="50" rx="2" ry="2"/><rect class="c" x="338" y="66" rx="2" ry="2"/><rect class="c" x="338" y="82" rx="2" ry="2"/><rect class="c" x="338" y="98" rx="2" ry="2"/><rect class="c" x="354" y="2" rx="2" ry="2"/><rect class="c" x="354" y="18" rx="2" ry="2"/><rect class="c" x="354" y="34" rx="2" ry="2"/><rect class="c" x="354" y="50" rx="2" ry="2"/><rect class="c" x="354" y="66" rx="2" ry="2"/><rect class="c" x="354" y="82" rx="2" ry="2"/><rect class="c" x="354" y="98" rx="2" ry="2"/><rect class="c" x="370" y="2" rx="2" ry="2"/><rect class="c" x="370" y="18" rx="2" ry="2"/><rect class="c" x="370" y="34" rx="2" ry="2"/><rect class="c" x="370" y="50" rx="2" ry="2"/><rect class="c" x="370" y="66" rx="2" ry="2"/><rect class="c" x="370" y="82" rx="2" ry="2"/><rect class="c" x="370" y="98" rx="2" ry="2"/><rect class="c" x="386" y="2" rx="2" ry="2"/><rect class="c" x="386" y="18" rx="2" ry="2"/><rect class="c" x="386" y="34" rx="2" ry="2"/><rect class="c" x="386" y="50" rx="2" ry="2"/><rect class="c" x="386" y="66" rx="2" ry="2"/><rect class="c" x="386" y="82" rx="2" ry="2"/><rect class="c" x="386" y="98" rx="2" ry="2"/><rect class="c" x="402" y="2" rx="2" ry="2"/><rect class="c c9" x="402" y="18" rx="2" ry="2"/><rect class="c" x="402" y="34" rx="2" ry="2"/><rect class="c" x="402" y="50" rx="2" ry="2"/><rect class="c" x="402" y="66" rx="2" ry="2"/><rect class="c" x="402" y="82" rx="2" ry="2"/><rect class="c" x="402" y="98" rx="2" ry="2"/><rect class="c" x="418" y="2" rx="2" ry="2"/><rect class="c" x="418" y="18" rx="2" ry="2"/><rect class="c" x="418" y="34" rx="2" ry="2"/><rect class="c" x="418" y="50" rx="2" ry="2"/><rect class="c" x="418" y="66" rx="2" ry="2"/><rect class="c" x="418" y="82" rx="2" ry="2"/><rect class="c" x="418" y="98" rx="2" ry="2"/><rect class="c" x="434" y="2" rx="2" ry="2"/><rect class="c" x="434" y="18" rx="2" ry="2"/><rect class="c" x="434" y="34" rx="2" ry="2"/><rect class="c" x="434" y="50" rx="2" ry="2"/><rect class="c" x="434" y="66" rx="2" ry="2"/><rect class="c" x="434" y="82" rx="2" ry="2"/><rect class="c" x="434" y="98" rx="2" ry="2"/><rect class="c" x="450" y="2" rx="2" ry="2"/><rect class="c" x="450" y="18" rx="2" ry="2"/><rect class="c" x="450" y="34" rx="2" ry="2"/><rect class="c" x="450" y="50" rx="2" ry="2"/><rect class="c" x="450" y="66" rx="2" ry="2"/><rect class="c" x="450" y="82" rx="2" ry="2"/><rect class="c" x="450" y="98" rx="2" ry="2"/><rect class="c" x="466" y="2" rx="2" ry="2"/><rect class="c" x="466" y="18" rx="2" ry="2"/><rect class="c" x="466" y="34" rx="2" ry="2"/><rect class="c" x="466" y="50" rx="2" ry="2"/><rect class="c" x="466" y="66" rx="2" ry="2"/><rect class="c" x="466" y="82" rx="2" ry="2"/><rect class="c" x="466" y="98" rx="2" ry="2"/><rect class="c ca" x="482" y="2" rx="2" ry="2"/><rect class="c" x="482" y="18" rx="2" ry="2"/><rect class="c" x="482" y="34" rx="2" ry="2"/><rect class="c" x="482" y="50" rx="2" ry="2"/><rect class="c" x="482" y="66" rx="2" ry="2"/><rect class="c" x="482" y="82" rx="2" ry="2"/><rect class="c" x="482" y="98" rx="2" ry="2"/><rect class="c" x="498" y="2" rx="2" ry="2"/><rect class="c" x="498" y="18" rx="2" ry="2"/><rect class="c" x="498" y="34" rx="2" ry="2"/><rect class="c" x="498" y="50" rx="2" ry="2"/><rect class="c" x="498" y="66" rx="2" ry="2"/><rect class="c cb" x="498" y="82" rx="2" ry="2"/><rect class="c cc" x="498" y="98" rx="2" ry="2"/><rect class="c" x="514" y="2" rx="2" ry="2"/><rect class="c" x="514" y="18" rx="2" ry="2"/><rect class="c" x="514" y="34" rx="2" ry="2"/><rect class="c" x="514" y="50" rx="2" ry="2"/><rect class="c" x="514" y="66" rx="2" ry="2"/><rect class="c" x="514" y="82" rx="2" ry="2"/><rect class="c" x="514" y="98" rx="2" ry="2"/><rect class="c" x="530" y="2" rx="2" ry="2"/><rect class="c" x="530" y="18" rx="2" ry="2"/><rect class="c" x="530" y="34" rx="2" ry="2"/><rect class="c" x="530" y="50" rx="2" ry="2"/><rect class="c" x="530" y="66" rx="2" ry="2"/><rect class="c" x="530" y="82" rx="2" ry="2"/><rect class="c" x="530" y="98" rx="2" ry="2"/><rect class="c" x="546" y="2" rx="2" ry="2"/><rect class="c" x="546" y="18" rx="2" ry="2"/><rect class="c cd" x="546" y="34" rx="2" ry="2"/><rect class="c" x="546" y="50" rx="2" ry="2"/><rect class="c" x="546" y="66" rx="2" ry="2"/><rect class="c" x="546" y="82" rx="2" ry="2"/><rect class="c" x="546" y="98" rx="2" ry="2"/><rect class="c" x="562" y="2" rx="2" ry="2"/><rect class="c" x="562" y="18" rx="2" ry="2"/><rect class="c" x="562" y="34" rx="2" ry="2"/><rect class="c" x="562" y="50" rx="2" ry="2"/><rect class="c" x="562" y="66" rx="2" ry="2"/><rect class="c ce" x="562" y="82" rx="2" ry="2"/><rect class="c" x="562" y="98" rx="2" ry="2"/><rect class="c" x="578" y="2" rx="2" ry="2"/><rect class="c" x="578" y="18" rx="2" ry="2"/><rect class="c" x="578" y="34" rx="2" ry="2"/><rect class="c" x="578" y="50" rx="2" ry="2"/><rect class="c" x="578" y="66" rx="2" ry="2"/><rect class="c" x="578" y="82" rx="2" ry="2"/><rect class="c cf" x="578" y="98" rx="2" ry="2"/><rect class="c cg" x="594" y="2" rx="2" ry="2"/><rect class="c" x="594" y="18" rx="2" ry="2"/><rect class="c" x="594" y="34" rx="2" ry="2"/><rect class="c" x="594" y="50" rx="2" ry="2"/><rect class="c" x="594" y="66" rx="2" ry="2"/><rect class="c" x="594" y="82" rx="2" ry="2"/><rect class="c ch" x="594" y="98" rx="2" ry="2"/><rect class="c" x="610" y="2" rx="2" ry="2"/><rect class="c" x="610" y="18" rx="2" ry="2"/><rect class="c" x="610" y="34" rx="2" ry="2"/><rect class="c" x="610" y="50" rx="2" ry="2"/><rect class="c" x="610" y="66" rx="2" ry="2"/><rect class="c" x="610" y="82" rx="2" ry="2"/><rect class="c" x="610" y="98" rx="2" ry="2"/><rect class="c" x="626" y="2" rx="2" ry="2"/><rect class="c" x="626" y="18" rx="2" ry="2"/><rect class="c" x="626" y="34" rx="2" ry="2"/><rect class="c" x="626" y="50" rx="2" ry="2"/><rect class="c" x="626" y="66" rx="2" ry="2"/><rect class="c" x="626" y="82" rx="2" ry="2"/><rect class="c" x="626" y="98" rx="2" ry="2"/><rect class="c ci" x="642" y="2" rx="2" ry="2"/><rect class="c" x="642" y="18" rx="2" ry="2"/><rect class="c" x="642" y="34" rx="2" ry="2"/><rect class="c" x="642" y="50" rx="2" ry="2"/><rect class="c" x="642" y="66" rx="2" ry="2"/><rect class="c" x="642" y="82" rx="2" ry="2"/><rect class="c cj" x="642" y="98" rx="2" ry="2"/><rect class="c" x="658" y="2" rx="2" ry="2"/><rect class="c ck" x="658" y="18" rx="2" ry="2"/><rect class="c cl" x="658" y="34" rx="2" ry="2"/><rect class="c" x="658" y="50" rx="2" ry="2"/><rect class="c" x="658" y="66" rx="2" ry="2"/><rect class="c" x="658" y="82" rx="2" ry="2"/><rect class="c" x="658" y="98" rx="2" ry="2"/><rect class="c" x="674" y="2" rx="2" ry="2"/><rect class="c" x="674" y="18" rx="2" ry="2"/><rect class="c" x="674" y="34" rx="2" ry="2"/><rect class="c" x="674" y="50" rx="2" ry="2"/><rect class="c" x="674" y="66" rx="2" ry="2"/><rect class="c" x="674" y="82" rx="2" ry="2"/><rect class="c" x="674" y="98" rx="2" ry="2"/><rect class="c" x="690" y="2" rx="2" ry="2"/><rect class="c" x="690" y="18" rx="2" ry="2"/><rect class="c" x="690" y="34" rx="2" ry="2"/><rect class="c" x="690" y="50" rx="2" ry="2"/><rect class="c" x="690" y="66" rx="2" ry="2"/><rect class="c" x="690" y="82" rx="2" ry="2"/><rect class="c" x="690" y="98" rx="2" ry="2"/><rect class="c cm" x="706" y="2" rx="2" ry="2"/><rect class="c cn" x="706" y="18" rx="2" ry="2"/><rect class="c co" x="706" y="34" rx="2" ry="2"/><rect class="c cp" x="706" y="50" rx="2" ry="2"/><rect class="c" x="706" y="66" rx="2" ry="2"/><rect class="c cq" x="706" y="82" rx="2" ry="2"/><rect class="c" x="706" y="98" rx="2" ry="2"/><rect class="c" x="722" y="2" rx="2" ry="2"/><rect class="c" x="722" y="18" rx="2" ry="2"/><rect class="c" x="722" y="34" rx="2" ry="2"/><rect class="c" x="722" y="50" rx="2" ry="2"/><rect class="c" x="722" y="66" rx="2" ry="2"/><rect class="c cr" x="722" y="82" rx="2" ry="2"/><rect class="c" x="722" y="98" rx="2" ry="2"/><rect class="c" x="738" y="2" rx="2" ry="2"/><rect class="c" x="738" y="18" rx="2" ry="2"/><rect class="c" x="738" y="34" rx="2" ry="2"/><rect class="c" x="738" y="50" rx="2" ry="2"/><rect class="c" x="738" y="66" rx="2" ry="2"/><rect class="c" x="738" y="82" rx="2" ry="2"/><rect class="c" x="738" y="98" rx="2" ry="2"/><rect class="c" x="754" y="2" rx="2" ry="2"/><rect class="c" x="754" y="18" rx="2" ry="2"/><rect class="c" x="754" y="34" rx="2" ry="2"/><rect class="c" x="754" y="50" rx="2" ry="2"/><rect class="c" x="754" y="66" rx="2" ry="2"/><rect class="c" x="754" y="82" rx="2" ry="2"/><rect class="c" x="754" y="98" rx="2" ry="2"/><rect class="c" x="770" y="2" rx="2" ry="2"/><rect class="c" x="770" y="18" rx="2" ry="2"/><rect class="c" x="770" y="34" rx="2" ry="2"/><rect class="c" x="770" y="50" rx="2" ry="2"/><rect class="c" x="770" y="66" rx="2" ry="2"/><rect class="c" x="770" y="82" rx="2" ry="2"/><rect class="c" x="770" y="98" rx="2" ry="2"/><rect class="c" x="786" y="2" rx="2" ry="2"/><rect class="c" x="786" y="18" rx="2" ry="2"/><rect class="c" x="786" y="34" rx="2" ry="2"/><rect class="c" x="786" y="50" rx="2" ry="2"/><rect class="c" x="786" y="66" rx="2" ry="2"/><rect class="c" x="786" y="82" rx="2" ry="2"/><rect class="c" x="786" y="98" rx="2" ry="2"/><rect class="c" x="802" y="2" rx="2" ry="2"/><rect class="c" x="802" y="18" rx="2" ry="2"/><rect class="c cs" x="802" y="34" rx="2" ry="2"/><rect class="c" x="802" y="50" rx="2" ry="2"/><rect class="c" x="802" y="66" rx="2" ry="2"/><rect class="c" x="802" y="82" rx="2" ry="2"/><rect class="c" x="802" y="98" rx="2" ry="2"/><rect class="c" x="818" y="2" rx="2" ry="2"/><rect class="c" x="818" y="18" rx="2" ry="2"/><rect class="c" x="818" y="34" rx="2" ry="2"/><rect class="c" x="818" y="50" rx="2" ry="2"/><rect class="c" x="818" y="66" rx="2" ry="2"/><rect class="c" x="818" y="82" rx="2" ry="2"/><rect class="c" x="818" y="98" rx="2" ry="2"/><rect class="c" x="834" y="2" rx="2" ry="2"/><rect class="c" x="834" y="18" rx="2" ry="2"/><rect class="c" x="834" y="34" rx="2" ry="2"/><rect class="c" x="834" y="50" rx="2" ry="2"/><rect class="c" x="834" y="66" rx="2" ry="2"/><rect class="c" x="834" y="82" rx="2" ry="2"/><rect class="u u0" height="12" width="643.9" x="0.0" y="144"/><rect class="u u1" height="12" width="117.6" x="643.3" y="144"/><rect class="u u2" height="12" width="29.8" x="760.3" y="144"/><rect class="u u3" height="12" width="59.1" x="789.5" y="144"/><rect class="s s0" x="0.8" y="0.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/><rect class="s s1" x="1.8" y="1.8" width="12.3" height="12.3" rx="4.1" ry="4.1"/><rect class="s s2" x="2.6" y="2.6" width="10.8" height="10.8" rx="3.6" ry="3.6"/><rect class="s s3" x="3.0" y="3.0" width="9.9" height="9.9" rx="3.3" ry="3.3"/></svg>
-## :handshake: Connect
 
-<p align="left">
+---
 
-<a href="https://github.com/javerdomaraya" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="35" width="45"/>
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🍈 Papaya Freshness Detection
+
+**Image-Based Detection of Papaya Freshness and Market Readiness**
+
+```text
+📷 Image
+   ↓
+YOLO / Faster R-CNN
+   ↓
+Papaya Detection
+   ↓
+Freshness Classification
+   ↓
+Market Readiness
+   ↓
+Shelf-Life Estimation
+```
+
+**Tech:** React Native • Expo • Django • YOLOv11s • Faster R-CNN • Computer Vision
+
+<br>
+
+<a href="https://github.com/Javerdomaraya/papaya-vision">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+<br><br>
+
+---
+
+### 🌿 Cassava Disease Classification
+
+**Hybrid Deep Learning System for Cassava Leaf Disease Classification**
+
+```text
+🌿 Cassava Leaf
+      ↓
+   YOLO Detection
+      ↓
+   Feature Extraction
+      ↓
+ CNN + Vision Transformer
+      ↓
+Disease Classification
+```
+
+**Tech:** Python • TensorFlow • CNN • Vision Transformer • YOLO • Django • React Native
+
+<br>
+
+---
+
+### 🎓 Student Uniform Compliance Detection
+
+**Automated Detection of Student Uniform Compliance Through Real-Time Video Analysis**
+
+```text
+🎥 Camera
+   ↓
+YOLO Detection
+   ↓
+Person / Uniform Detection
+   ↓
+DeepSORT Tracking
+   ↓
+Compliance Analysis
+   ↓
+🚨 Violation Alert
+```
+
+**Tech:** Python • YOLO • DeepSORT • Computer Vision • Django • React
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/javerdomaraya">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=javerdomaraya&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javerdomaraya&layout=compact&hide_border=true&theme=transparent" />
+
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=javerdomaraya&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
+
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/javerdomaraya">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javerdomaraya&theme=transparent" />
+
+</a>
+
+</div>
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="https://github.com/javerdomaraya">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+**Interested in AI, Computer Vision, or building something together?**
+
+<br>
+
+<i>Let's turn ideas into intelligent systems. 🤖</i>
+
+</div>
+
+<br>
 
 ---
 
 <div align="center">
 
-<i>Building practical AI solutions through code, data, and computer vision.</i>
+### ⚡ Currently Building
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Systems;Computer+Vision+Applications;AI-Powered+Mobile+Apps;Full-Stack+AI+Solutions;Always+Learning+Something+New+%F0%9F%9A%80" />
 
-<a href="#top">Back to top</a>
+<br><br>
+
+**"Build. Learn. Experiment. Deploy."**
+
+<br><br>
+
+<a href="#-about">⬆️ Back to top</a>
 
 </div>
