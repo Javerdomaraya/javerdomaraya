@@ -353,7 +353,3 @@ React Native
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0077FF,100:7B2FFF&height=120&section=footer&animation=fadeIn" />
 ```
-
-And I intentionally kept it **emoji-free**.
-
-One thing I'd recommend next is going even further and making the entire README look like a **dark futuristic AI dashboard** rather than a traditional GitHub README — with animated neon separators, terminal panels, model-pipeline visualization, skill meters, and a much more impressive hero section.
