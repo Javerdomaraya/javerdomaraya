@@ -170,41 +170,7 @@ I enjoy building systems that take AI models beyond experimentation and turn the
 
 </details>
 
----
 
-## :computer: Projects
-
-### :watermelon: Papaya Freshness Detection
-
-**Image-Based Detection of Papaya Freshness and Market Readiness**
-
-A computer vision application designed to analyze papaya maturity and defects and provide information about freshness, market readiness, shelf life, and prediction confidence.
-
-**Technologies:** React Native · Expo · Django · YOLO · Faster R-CNN · SQLite
-
-<a href="https://github.com/Javerdomaraya/papaya-vision">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat&logo=github" alt="View Papaya Vision"/>
-</a>
-
----
-
-### :leaves: Cassava Disease Classification
-
-A deep learning project focused on cassava leaf disease classification using image classification and computer vision techniques.
-
-**Technologies:** Python · TensorFlow/Keras · ResNet50 · Vision Transformer · Django · React Native
-
----
-
-### :school: Student Uniform Compliance Detection
-
-**Automated Detection of Student Uniform Compliance in Schools Through Real-Time Video Analysis**
-
-A computer vision system designed to analyze real-time video and detect student uniform compliance.
-
-**Technologies:** Python · YOLO · DeepSORT · Computer Vision · Django
-
----
 
 ## :chart_with_upwards_trend: GitHub Stats
 
